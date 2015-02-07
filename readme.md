@@ -20,5 +20,5 @@
 	* `rvm --default use 1.9.3`
 
 6. Inside custom omega theme folder
-	* 'bundle install'
+	* `bundle install`
 
