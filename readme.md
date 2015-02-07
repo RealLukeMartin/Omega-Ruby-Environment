@@ -19,6 +19,7 @@
 5. Set newly installed ruby version as default
 	* `$ rvm --default use 1.9.3`
 
-6. Inside custom omega theme folder
+6. Install all the gems
+	* Go into your custom Omega theme.
 	* `$ bundle install`
 
