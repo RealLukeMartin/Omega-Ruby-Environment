@@ -1,6 +1,6 @@
 #Omega Development Environment Set Up and Tips For Yosemite
 
-### Steps assume you are starting from scratch, but some dependencies you might already have
+#### Steps assume you are starting from scratch, but you may already have some dependencies.
 
 1. Install Xcode Command Line Tools
 	* To check if already installed run: `$ gcc` or `$ make`
@@ -19,4 +19,6 @@
 5. Set newly installed ruby version as default
 	* `rvm --default use 1.9.3`
 
+6. Inside custom omega theme folder
+	* 'bundle install'
 
