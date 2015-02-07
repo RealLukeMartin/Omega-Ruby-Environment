@@ -2,7 +2,9 @@
 
 ### Steps assume you are starting from scratch, but some dependencies you might already have
 
-1. Download Xcode Command Line Tools
+1. Install Xcode Command Line Tools
+	* To check if already installed run: `$ gcc` or `$ make`
+	* If you don't have Xcode Command Line Tools you will then be prompted to install it.
 
 2. [Download GPG Tools](https://gpgtools.org/)
 
