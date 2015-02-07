@@ -1,4 +1,4 @@
-#Omega 4 Theme Ruby Set Up For Yosemite OS X
+#Omega 4 Ruby Set Up For Yosemite OS X
 
 #### Steps assume you are starting from scratch, but you may already have some dependencies.
 
