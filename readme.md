@@ -10,16 +10,19 @@
 
 3. [Download RVM](http://rvm.io/)
 	* `$ gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3`
+		* Go to [http://rvm.io/](http://rvm.io/) if you want newest version of RVM.
 	* `$ \curl -sSL https://get.rvm.io | bash -s stable`
 
-4. Install RVM
+4. Restart terminal.
+
+5. Install RVM
 	* `$ rvm install ruby-1.9.3-p551`
 		* If running into issues run: `$ rvm install 1.9.3 --with-gcc=clang`
 
-5. Set newly installed ruby version as default
+6. Set newly installed ruby version as default
 	* `$ rvm --default use 1.9.3`
 
-6. Install all the gems
+7. Install all the gems
 	* Go into your custom Omega theme.
 	* `$ bundle install`
 
