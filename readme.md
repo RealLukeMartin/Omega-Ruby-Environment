@@ -8,14 +8,14 @@
 
 2. [Download GPG Tools](https://gpgtools.org/)
 
-3. [Download RVM](http://rvm.io/)
+3. [Download & Install RVM](http://rvm.io/)
 	* `$ gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3`
 		* Go to [http://rvm.io/](http://rvm.io/) if you want newest version of RVM.
 	* `$ \curl -sSL https://get.rvm.io | bash -s stable`
 
 4. Restart terminal.
 
-5. Install RVM
+5. Install Default Omega 4 Ruby Version
 	* `$ rvm install ruby-1.9.3-p551`
 		* If running into issues run: `$ rvm install 1.9.3 --with-gcc=clang`
 
