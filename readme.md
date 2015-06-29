@@ -6,7 +6,8 @@
 	* To check if already installed run: `$ gcc` or `$ make`
 	* If you don't have Xcode Command Line Tools you will then be prompted to install it.
 
-2. [Download GPG Tools](https://gpgtools.org/)
+2. Download GPG Tools
+	* 'brew install gnupg'
 
 3. [Download & Install RVM](http://rvm.io/)
 	* `$ gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3`
