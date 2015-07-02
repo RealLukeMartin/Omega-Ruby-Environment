@@ -8,6 +8,8 @@
 
 2. Download GPG Tools
 	* `brew install gnupg`
+	* If you can't run `brew`, install [Homebrew](http://brew.sh/) by running:
+		* `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 3. [Download & Install RVM](http://rvm.io/)
 	* `$ gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3`
